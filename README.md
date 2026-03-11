@@ -39,17 +39,19 @@ calculator-project
 ├── testng.xml
 │
 └── src
-├── main
-│ └── java
-│ └── com/example
-│ └── Calculator.java
-│
-└── test
-└── java
-└── com/example
-├── CalculatorJUnitTest.java
-├── FibonacciTest.java
-└── LucasTest.java
+    ├── main
+    │   └── java
+    │       └── com
+    │           └── example
+    │               └── Calculator.java
+    │
+    └── test
+        └── java
+            └── com
+                └── example
+                    ├── CalculatorJUnitTest.java
+                    ├── FibonacciTest.java
+                    └── LucasTest.java
 
 
 ---
